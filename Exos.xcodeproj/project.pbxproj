@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		7E4B683F238FD6FF007ABD89 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B683E238FD6FF007ABD89 /* main.swift */; };
+		7E4B6846238FD741007ABD89 /* Exo1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B6845238FD741007ABD89 /* Exo1.swift */; };
+		7E4B6848238FD767007ABD89 /* Exo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B6847238FD767007ABD89 /* Exo2.swift */; };
+		7E4B684A238FD77C007ABD89 /* Exo3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B6849238FD77C007ABD89 /* Exo3.swift */; };
+		7E4B684C2391513C007ABD89 /* Exo4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B684B2391513C007ABD89 /* Exo4.swift */; };
+		7E4B684E23915EE0007ABD89 /* Exo5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B684D23915EE0007ABD89 /* Exo5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		7E4B683B238FD6FF007ABD89 /* Exos */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Exos; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E4B683E238FD6FF007ABD89 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7E4B6845238FD741007ABD89 /* Exo1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exo1.swift; sourceTree = "<group>"; };
+		7E4B6847238FD767007ABD89 /* Exo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exo2.swift; sourceTree = "<group>"; };
+		7E4B6849238FD77C007ABD89 /* Exo3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exo3.swift; sourceTree = "<group>"; };
+		7E4B684B2391513C007ABD89 /* Exo4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exo4.swift; sourceTree = "<group>"; };
+		7E4B684D23915EE0007ABD89 /* Exo5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exo5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +51,7 @@
 		7E4B6832238FD6FF007ABD89 = {
 			isa = PBXGroup;
 			children = (
+				7E4B683E238FD6FF007ABD89 /* main.swift */,
 				7E4B683D238FD6FF007ABD89 /* Exos */,
 				7E4B683C238FD6FF007ABD89 /* Products */,
 			);
@@ -57,7 +68,11 @@
 		7E4B683D238FD6FF007ABD89 /* Exos */ = {
 			isa = PBXGroup;
 			children = (
-				7E4B683E238FD6FF007ABD89 /* main.swift */,
+				7E4B6845238FD741007ABD89 /* Exo1.swift */,
+				7E4B6847238FD767007ABD89 /* Exo2.swift */,
+				7E4B6849238FD77C007ABD89 /* Exo3.swift */,
+				7E4B684B2391513C007ABD89 /* Exo4.swift */,
+				7E4B684D23915EE0007ABD89 /* Exo5.swift */,
 			);
 			path = Exos;
 			sourceTree = "<group>";
@@ -120,6 +135,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E4B684C2391513C007ABD89 /* Exo4.swift in Sources */,
+				7E4B684A238FD77C007ABD89 /* Exo3.swift in Sources */,
+				7E4B6846238FD741007ABD89 /* Exo1.swift in Sources */,
+				7E4B6848238FD767007ABD89 /* Exo2.swift in Sources */,
+				7E4B684E23915EE0007ABD89 /* Exo5.swift in Sources */,
 				7E4B683F238FD6FF007ABD89 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

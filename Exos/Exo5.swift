@@ -1,12 +1,9 @@
 //
-//  main.swift
+//  Exo5.swift
 //  Exos
 //
-//  Created by Samuel on 28/11/2019.
+//  Created by Samuel on 29/11/2019.
 //  Copyright © 2019 Samuel. All rights reserved.
 //
 
 import Foundation
-
-print("Hello, World!")
-
